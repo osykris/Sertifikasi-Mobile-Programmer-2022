@@ -1,0 +1,47 @@
+name: sertifikasi_mobile
+version: 1.0.0+1
+publish_to: none
+description: Ini merupakan aplikasi untuk sertifikasi mobile
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.5
+  get: ^4.6.5
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.1.8
+  flutter_barcode_scanner: ^2.0.0
+  geolocator: ^9.0.0
+  geocoding: ^2.0.4
+  flutter_screenutil: ^5.5.3+2
+  firebase_core: ^1.18.0
+  firebase_auth: ^3.3.20
+  cloud_firestore: ^3.1.18
+  sqflite: ^2.0.2+1
+  shared_preferences: ^2.0.15
+  image_picker: ^0.8.5+3
+  firebase_storage: ^10.2.18
+  flutter_launcher_icons: ^0.9.3
+  trust_location: ^2.0.13
+  flutter_map: ^0.14.0
+  latlong2: ^0.8.1
+  location: ^4.3.0
+  cached_network_image: ^3.1.0
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android : 'launcher_icon'
+  image_path : 'assets/icons/logo.png'
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ilus.png
+    - assets/profil.png
+    - assets/icons/1.png
+    - assets/icons/2.png

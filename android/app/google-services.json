@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064759854548",
+    "project_id": "pbm-project-65509",
+    "storage_bucket": "pbm-project-65509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064759854548:android:0e22cde034d41082374241",
+        "android_client_info": {
+          "package_name": "com.example.apoticare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064759854548-c0p52lteh91287lfh8r427a3ok2dompc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0zSD2D6B0r27TPGO7_fbYeDSbMgsm6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064759854548-c0p52lteh91287lfh8r427a3ok2dompc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
